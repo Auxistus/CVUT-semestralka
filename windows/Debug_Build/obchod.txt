@@ -1,0 +1,12 @@
+Iontovy kanon
+35
+0
+2000
+Laser MK2
+30
+0
+1500
+Argailsky stit
+0
+60
+1000
